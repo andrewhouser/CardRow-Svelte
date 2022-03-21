@@ -104,12 +104,20 @@
 
 <div class="container">
   <div class="container">
+    <!--
+		Svelte's #each iterator doesn't allow a ton of room to
+		do logic, so best practice is to massage you data in JS
+		above. However, there are a few utilities available.
+		Here you can see we have @const and we are destructuring
+		an object.
+	-->
     {#each dots as dot}
+      {@const { index, isLeading } = dot}
       <div
-        data-index={dot.index}
+        data-index={index}
         class="dot"
-        class:active={dot.index === pageIndex}
-        class:leading={dot.isLeading}
+        class:active={index === pageIndex}
+        class:leading={isLeading}
         on:click={changePage}
       >
         <div class="dot-content">&nbsp;</div>
