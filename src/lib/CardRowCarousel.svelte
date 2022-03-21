@@ -51,6 +51,10 @@
 
 <div class="wrapper">
   <div class="wrapper-inner">
+    <!--
+		  Here is the convention to pass variables to CSS.
+		  Unlike JSS, we use CSS variables, declared inline.
+		-->
     <div
       class="overflow-container"
       style="--transform-percent: {transformPercent}"
