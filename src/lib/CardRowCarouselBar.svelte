@@ -106,7 +106,7 @@
   <div class="container">
     <!--
 		Svelte's #each iterator doesn't allow a ton of room to
-		do logic, so best practice is to massage you data in JS
+		do logic, so best practice is to massage your data in JS
 		above. However, there are a few utilities available.
 		Here you can see we have @const and we are destructuring
 		an object.
