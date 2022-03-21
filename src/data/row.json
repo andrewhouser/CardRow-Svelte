@@ -1,0 +1,646 @@
+{
+	"cursor": "YXJyYXljb25uZWN0aW9uOjI=",
+	"node": {
+		"__typename": "RecommendedClassesSection",
+		"id": "eyJ0eXBlIjoiUmVjb21tZW5kZWRDbGFzc2VzU2VjdGlvbiIsImlkIjoiNSJ9",
+		"title": "Recommended For You",
+		"items": {
+			"edges": [
+				{
+					"cursor": "eyJpZCI6IjQ5MzAxMSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "ORIGINAL"
+							}
+						],
+						"durationInSeconds": 4861,
+						"id": "eyJpZCI6IjQ5MzAxMSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/8ea594b212f7edc9a5d2a8d504ce505f/original",
+						"sku": "1501328633",
+						"studentCount": 19771,
+						"teacher": {
+							"name": "Jonathan Van Ness",
+							"username": "435439932",
+							"vanityUsername": null
+						},
+						"title": "The Ultimate Self-Care Playbook: Discover & Nurture Your Centered Self",
+						"url": "https://staging.skillshare.com/classes/The-Ultimate-Self-Care-Playbook-Discover-Nurture-Your-Centered-Self/1501328633",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjI0NzgxNiIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 5022,
+						"id": "eyJpZCI6IjI0NzgxNiIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/a8a149db6f4b78b1cf36e6483798164b/original",
+						"sku": "1948270521",
+						"studentCount": 73748,
+						"teacher": {
+							"name": "Gabrielle Brickey",
+							"username": "1916467",
+							"vanityUsername": null
+						},
+						"title": "Learn to Draw: Daily Practices to Improve Your Drawing Skills",
+						"url": "https://staging.skillshare.com/classes/Learn-to-Draw-Daily-Practices-to-Improve-Your-Drawing-Skills/1948270521",
+						"viewer": {
+							"hasSavedClass": true
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjQ4NDU4NSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 2302,
+						"id": "eyJpZCI6IjQ4NDU4NSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/df72535e5e1ff8d63024c86a8ec05cf0/original",
+						"sku": "1516835205",
+						"studentCount": 19884,
+						"teacher": {
+							"name": "Mike Lowery",
+							"username": "9493780",
+							"vanityUsername": null
+						},
+						"title": "Always Drawing: How to Start and Keep a Daily Sketchbook",
+						"url": "https://staging.skillshare.com/classes/Always-Drawing-How-to-Start-and-Keep-a-Daily-Sketchbook/1516835205",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjUwMjYzMSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "ORIGINAL"
+							}
+						],
+						"durationInSeconds": 13191,
+						"id": "eyJpZCI6IjUwMjYzMSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/2c7e58f9daad7c62080dbb9cd1edffed/original",
+						"sku": "1515850453",
+						"studentCount": 3738,
+						"teacher": {
+							"name": "Justin Michael Williams",
+							"username": "989696042",
+							"vanityUsername": "justinmichaelwilliams"
+						},
+						"title": "Modern Meditation: Discover Your Potential, Power & Purpose",
+						"url": "https://staging.skillshare.com/classes/Modern-Meditation-Discover-Your-Potential-Power-Purpose/1515850453",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjQ4Nzg2MyIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "ORIGINAL"
+							}
+						],
+						"durationInSeconds": 4411,
+						"id": "eyJpZCI6IjQ4Nzg2MyIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/0adde55e00f36d8955ee339fcea3a524/original",
+						"sku": "731552530",
+						"studentCount": 52068,
+						"teacher": {
+							"name": "Marques Brownlee",
+							"username": "214644816",
+							"vanityUsername": null
+						},
+						"title": "YouTube Success: Script, Shoot & Edit with MKBHD",
+						"url": "https://staging.skillshare.com/classes/YouTube-Success-Script-Shoot-Edit-with-MKBHD/731552530",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjUwNDIyNCIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "ORIGINAL"
+							}
+						],
+						"durationInSeconds": 6870,
+						"id": "eyJpZCI6IjUwNDIyNCIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/0c52e7aad5e86fe43cace14bfba12c7b/original",
+						"sku": "452812118",
+						"studentCount": 6537,
+						"teacher": {
+							"name": "Denise Bayron",
+							"username": "157928931",
+							"vanityUsername": null
+						},
+						"title": "Sewing Basics: Make Your Own Clothing",
+						"url": "https://staging.skillshare.com/classes/Sewing-Basics-Make-Your-Own-Clothing/452812118",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjUyNDU0OSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "ORIGINAL"
+							}
+						],
+						"durationInSeconds": 2284,
+						"id": "eyJpZCI6IjUyNDU0OSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/3a4800372bc34819b6a6baf1e39fc647/original",
+						"sku": "1510962159",
+						"studentCount": 3589,
+						"teacher": {
+							"name": "Alicia Souza",
+							"username": "600825",
+							"vanityUsername": "aliciasouza"
+						},
+						"title": "Illustrate for Merchandise: Transform Your Artwork Into Products",
+						"url": "https://staging.skillshare.com/classes/Illustrate-for-Merchandise-Transform-Your-Artwork-Into-Products/1510962159",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjUzMTM4NSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 1503,
+						"id": "eyJpZCI6IjUzMTM4NSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/d529abc373b8949b2555a55d10d25d91/original",
+						"sku": "1673968150",
+						"studentCount": 2769,
+						"teacher": {
+							"name": "Mimi Chao",
+							"username": "2657589",
+							"vanityUsername": "mimichao"
+						},
+						"title": "Make Your Creative Space: A Simple & Inspiring Guide",
+						"url": "https://staging.skillshare.com/classes/Make-Your-Creative-Space-A-Simple-Inspiring-Guide/1673968150",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjUxMTI3NCIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 4896,
+						"id": "eyJpZCI6IjUxMTI3NCIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/ceaf02c67ba48c0bd846e0a2a699dbae/original",
+						"sku": "1570651006",
+						"studentCount": 1129,
+						"teacher": {
+							"name": "Neha Modi",
+							"username": "1533279",
+							"vanityUsername": null
+						},
+						"title": "Mindful Mandala: 7 Days of Relaxation & Creative Play",
+						"url": "https://staging.skillshare.com/classes/Mindful-Mandala-7-Days-of-Relaxation-Creative-Play/1570651006",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjM4NTkwOSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "ORIGINAL"
+							}
+						],
+						"durationInSeconds": 4377,
+						"id": "eyJpZCI6IjM4NTkwOSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/a328f786d77c9b5a3607fdb61354486b/original",
+						"sku": "1945270638",
+						"studentCount": 48628,
+						"teacher": {
+							"name": "Andy J. Pizza",
+							"username": "2832678",
+							"vanityUsername": null
+						},
+						"title": "Find Your Style: Five Exercises to Unlock Your Creative Identity",
+						"url": "https://staging.skillshare.com/classes/Find-Your-Style-Five-Exercises-to-Unlock-Your-Creative-Identity/1945270638",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjMwNjIwMyIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 7299,
+						"id": "eyJpZCI6IjMwNjIwMyIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/8b690d187f093888f8fed6997131f2bc/original",
+						"sku": "559162226",
+						"studentCount": 15321,
+						"teacher": {
+							"name": "Rich Armstrong",
+							"username": "6102916",
+							"vanityUsername": "taptapkaboom"
+						},
+						"title": "Digital Marbling: Create Stunning Abstract Art in Procreate",
+						"url": "https://staging.skillshare.com/classes/Digital-Marbling-Create-Stunning-Abstract-Art-in-Procreate/559162226",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjU0MDMyOCIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "ORIGINAL"
+							}
+						],
+						"durationInSeconds": 2987,
+						"id": "eyJpZCI6IjU0MDMyOCIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/364b7bef3b2a664c3d745d34107eea3b/original",
+						"sku": "2126822871",
+						"studentCount": 3908,
+						"teacher": {
+							"name": "Nedra Tawwab",
+							"username": "393485848",
+							"vanityUsername": null
+						},
+						"title": "Reach Your Goals: 7 Personal Development Exercises to Build a Life You Love",
+						"url": "https://staging.skillshare.com/classes/Reach-Your-Goals-7-Personal-Development-Exercises-to-Build-a-Life-You-Love/2126822871",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjQ4OTg1MSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 13730,
+						"id": "eyJpZCI6IjQ4OTg1MSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/a4cb7af2c011f1261475454b5300aa64/original",
+						"sku": "808973360",
+						"studentCount": 1615,
+						"teacher": {
+							"name": "Mel Rye",
+							"username": "1438126",
+							"vanityUsername": null
+						},
+						"title": "Drawing Patterns: 14 Days of Mindful Drawing for Self-Care",
+						"url": "https://staging.skillshare.com/classes/Drawing-Patterns-14-Days-of-Mindful-Drawing-for-Self-Care/808973360",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjQ3NjEzMiIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 4788,
+						"id": "eyJpZCI6IjQ3NjEzMiIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/41dad68d5836f509b9d1dd7201d0db7c/original",
+						"sku": "172991537",
+						"studentCount": 17253,
+						"teacher": {
+							"name": "Nathaniel Drew",
+							"username": "7093134",
+							"vanityUsername": null
+						},
+						"title": "Document Your Life: 4 Methods to Live More Intentionally",
+						"url": "https://staging.skillshare.com/classes/Document-Your-Life-4-Methods-to-Live-More-Intentionally/172991537",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjU0MTI3NyIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 2367,
+						"id": "eyJpZCI6IjU0MTI3NyIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/d3cef3a6909222a29308a4d5528a320e/original",
+						"sku": "1227397098",
+						"studentCount": 3624,
+						"teacher": {
+							"name": "Cari Cakes",
+							"username": "685734894",
+							"vanityUsername": null
+						},
+						"title": "Romanticizing Your Life: A Beginner’s Guide to Creating Vlogs for YouTube",
+						"url": "https://staging.skillshare.com/classes/Romanticizing-Your-Life-A-Beginner%E2%80%99s-Guide-to-Creating-Vlogs-for-YouTube/1227397098",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjMyNjUwMSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 4334,
+						"id": "eyJpZCI6IjMyNjUwMSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/171d2bc265d34936d86ecf0981832270/original",
+						"sku": "1888082231",
+						"studentCount": 24312,
+						"teacher": {
+							"name": "Rich Armstrong",
+							"username": "6102916",
+							"vanityUsername": "taptapkaboom"
+						},
+						"title": "Procreate Animation: Make Fun GIFs & Videos",
+						"url": "https://staging.skillshare.com/classes/Procreate-Animation-Make-Fun-GIFs-Videos/1888082231",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjQyNzA0MCIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [],
+						"durationInSeconds": 6895,
+						"id": "eyJpZCI6IjQyNzA0MCIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/47230a8b326958092ad8898b0dae8c45/original",
+						"sku": "647318269",
+						"studentCount": 76606,
+						"teacher": {
+							"name": "Ali Abdaal",
+							"username": "3785132",
+							"vanityUsername": "aliabdaal"
+						},
+						"title": "Productivity Masterclass - Principles and Tools to Boost Your Productivity",
+						"url": "https://staging.skillshare.com/classes/Productivity-Masterclass-Principles-and-Tools-to-Boost-Your-Productivity/647318269",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjQ3MjQyMSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 1278,
+						"id": "eyJpZCI6IjQ3MjQyMSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/47492ccc9f1543c21e22772fe89e7ecb/original",
+						"sku": "986731630",
+						"studentCount": 4015,
+						"teacher": {
+							"name": "Neha Modi",
+							"username": "1533279",
+							"vanityUsername": null
+						},
+						"title": "Daily Meditative Art Practice: Pen, Paper, and Patterns",
+						"url": "https://staging.skillshare.com/classes/Daily-Meditative-Art-Practice-Pen-Paper-and-Patterns/986731630",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjIyMzU0MCIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [],
+						"durationInSeconds": 15666,
+						"id": "eyJpZCI6IjIyMzU0MCIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/1c61db4ed1ff443ede2d2b0c8c8c07dc/original",
+						"sku": "637385311",
+						"studentCount": 83531,
+						"teacher": {
+							"name": "Brent Eviston",
+							"username": "9431446",
+							"vanityUsername": "artandscienceofdrawing"
+						},
+						"title": "Basic Skills / Getting Started with Drawing",
+						"url": "https://staging.skillshare.com/classes/Basic-Skills-Getting-Started-with-Drawing/637385311",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjUzNjQ4MCIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 2474,
+						"id": "eyJpZCI6IjUzNjQ4MCIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/ad30ae025999e9f553bc2717b3d025f5/original",
+						"sku": "263597128",
+						"studentCount": 1761,
+						"teacher": {
+							"name": "Rich Armstrong",
+							"username": "6102916",
+							"vanityUsername": "taptapkaboom"
+						},
+						"title": "Productivity Basics: How to Become More Productive in 4 Steps",
+						"url": "https://staging.skillshare.com/classes/Productivity-Basics-How-to-Become-More-Productive-in-4-Steps/263597128",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjUzNzYzNiIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [],
+						"durationInSeconds": 4888,
+						"id": "eyJpZCI6IjUzNzYzNiIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/a93e2a911f42c12e42abdef713bd5dfb/original",
+						"sku": "1253328670",
+						"studentCount": 1471,
+						"teacher": {
+							"name": "Mimi Chao",
+							"username": "2657589",
+							"vanityUsername": "mimichao"
+						},
+						"title": "Mindful Drawing 101: Guided Prompts for Creative Self-Care",
+						"url": "https://staging.skillshare.com/classes/Mindful-Drawing-101-Guided-Prompts-for-Creative-Self-Care/1253328670",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjIzMTgzMyIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 25219,
+						"id": "eyJpZCI6IjIzMTgzMyIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/d4e4af38dae920ea95ac7b709a565135/original",
+						"sku": "1986526776",
+						"studentCount": 85320,
+						"teacher": {
+							"name": "Daniel Scott",
+							"username": "3015322",
+							"vanityUsername": "byol"
+						},
+						"title": "Adobe Illustrator CC – Essentials Training",
+						"url": "https://staging.skillshare.com/classes/Adobe-Illustrator-CC-%E2%80%93-Essentials-Training/1986526776",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjU0NDk0NiIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 7037,
+						"id": "eyJpZCI6IjU0NDk0NiIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/fa291bfe5a9a959d1c5c254b08882b0c/original",
+						"sku": "98811111",
+						"studentCount": 1207,
+						"teacher": {
+							"name": "Tyra Washington",
+							"username": "7571083",
+							"vanityUsername": null
+						},
+						"title": "Animation For Beginners: Add Animation To Your Instagram Photos Using Procreate",
+						"url": "https://staging.skillshare.com/classes/Animation-For-Beginners-Add-Animation-To-Your-Instagram-Photos-Using-Procreate/98811111",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjQ5NTY2MCIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [
+							{
+								"type": "STAFF_PICK"
+							}
+						],
+						"durationInSeconds": 5571,
+						"id": "eyJpZCI6IjQ5NTY2MCIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/420695cc1c66652282bb69828481da9e/original",
+						"sku": "1147193977",
+						"studentCount": 21139,
+						"teacher": {
+							"name": "Ali Abdaal",
+							"username": "3785132",
+							"vanityUsername": "aliabdaal"
+						},
+						"title": "Starting a Successful Side-Hustle",
+						"url": "https://staging.skillshare.com/classes/Starting-a-Successful-Side-Hustle/1147193977",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				},
+				{
+					"cursor": "eyJpZCI6IjQ1MDkxOSIsInR5cGUiOiJDbGFzcyJ9",
+					"node": {
+						"__typename": "Class",
+						"badges": [],
+						"durationInSeconds": 5197,
+						"id": "eyJpZCI6IjQ1MDkxOSIsInR5cGUiOiJDbGFzcyJ9",
+						"largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/e7eb7e2e5299e40e949e9c08cdeb4824/original",
+						"sku": "928999366",
+						"studentCount": 22986,
+						"teacher": {
+							"name": "Ali Abdaal",
+							"username": "3785132",
+							"vanityUsername": "aliabdaal"
+						},
+						"title": "How to be Happier - Stoicism Masterclass",
+						"url": "https://staging.skillshare.com/classes/How-to-be-Happier-Stoicism-Masterclass/928999366",
+						"viewer": {
+							"hasSavedClass": false
+						}
+					}
+				}
+			]
+		}
+	}
+}
