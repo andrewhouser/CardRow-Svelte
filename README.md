@@ -1,40 +1,22 @@
-# create-svelte
+# CardRow component in Svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+A recreation of the Skillshare React `CardRow` component (sort of), built in svelte.
 
-## Creating a project
+## Installing this project
 
-If you're seeing this, you've probably already done this step. Congrats!
+Clone this repo and then...
 
 ```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
+# install the project dependencies
+npm init
 ```
 
-> Note: the `@next` is temporary
+## Run the projects
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+To run a local development instance of this project
 
 ```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
 npm run dev -- --open
 ```
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Your browser should be opened to `http://localhost:3000` with the project running
