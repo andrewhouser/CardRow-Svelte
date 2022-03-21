@@ -1,8 +1,14 @@
 <script lang="ts">
+  // When importing types or interfaces, note the syntax below
   import type { ClassType } from '../models/';
+
   import CardMedia from './CardMedia.svelte';
   import SaveClass from './SaveClass.svelte';
 
+  // In order to expose props of a component we export them.
+  // It's a syntax that took a while to get used to, but it
+  // clicks after a bit. Exported props are required by default.
+  // To make a prop optional, simply define a default value.
   export let cardsPerPage: number = 5;
   export let ss_class: ClassType;
 
